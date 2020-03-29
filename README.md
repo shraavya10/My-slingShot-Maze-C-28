@@ -1,2 +1,2 @@
-# My-slingShot-Maze-C-28
-I created my own slingshot maze!
+# p5.play-boilerplate
+Boiler plate for p5.play
